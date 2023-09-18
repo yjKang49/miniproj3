@@ -9,7 +9,7 @@
 <details>
 <summary>video1</summary>
  <figure>
-  <video src="비디오 경로" controls ></video><br>
+  <img src="" alt="Palm" width="711" height="400"><br>
   <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
 </figure>
 </details>
@@ -17,7 +17,7 @@
 <details>
 <summary>video2</summary>
  <figure>
-  <video src="비디오 경로" controls ></video><br>
+  <img src="" alt="Palm" width="711" height="400"><br>
   <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
 </figure>
 </details>
