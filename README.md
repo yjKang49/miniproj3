@@ -6,7 +6,21 @@
 * 9/19 최종발표
 
 # video
+<details>
+<summary>video1</summary>
+ <figure>
+  <video src="비디오 경로" controls ></video><br>
+  <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
+</figure>
+</details>
 
+<details>
+<summary>video2</summary>
+ <figure>
+  <video src="비디오 경로" controls ></video><br>
+  <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
+</figure>
+</details>
 
 # Directory
 
