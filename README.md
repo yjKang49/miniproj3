@@ -9,12 +9,12 @@
 
 
 # Reference
-https://webnautes.blog/4362/
-https://github.com/kairess/gesture-recognition/tree/master
-https://github.com/kairess/Rock-Paper-Scissors-Machine
+* https://webnautes.blog/4362/
+* https://github.com/kairess/gesture-recognition/tree/master
+* https://github.com/kairess/Rock-Paper-Scissors-Machine
 
-https://github.com/kinivi/hand-gesture-recognition-mediapipe
-https://github.com/xenon-19/Gesture-Controlled-Virtual-Mouse/tree/main
+* https://github.com/kinivi/hand-gesture-recognition-mediapipe
+* https://github.com/xenon-19/Gesture-Controlled-Virtual-Mouse/tree/main
 
 ## Dependency
 - Python 3
