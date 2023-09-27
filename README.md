@@ -9,7 +9,7 @@
 <details>
 <summary>video1</summary>
  <figure>
-  <img src="" alt="Palm" width="711" height="400"><br>
+  <img src="video/video1.mp4" alt="Palm" width="711" height="400"><br>
   <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
 </figure>
 </details>
@@ -17,7 +17,7 @@
 <details>
 <summary>video2</summary>
  <figure>
-  <img src="" alt="Palm" width="711" height="400"><br>
+  <img src="video/video2.mp4" alt="Palm" width="711" height="400"><br>
   <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
 </figure>
 </details>
