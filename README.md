@@ -9,16 +9,16 @@
 <details>
 <summary>video1</summary>
  <figure>
-  <img src="video/video1.mp4" alt="Palm" width="711" height="400"><br>
-  <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
+  <img src="video/video1.mp4" alt="gesture recognition video1" width="711" height="400"><br>
+  <figcaption>크롬 새 창 클릭 > 유튜브 클릭 > 새로고침 기능(F5) > 유튜브 검색 중 backspace 기능 > 영상 시작/멈춤/드래그 > 창 모두 닫기 기능(window + d)</figcaption>
 </figure>
 </details>
 
 <details>
 <summary>video2</summary>
  <figure>
-  <img src="video/video2.mp4" alt="Palm" width="711" height="400"><br>
-  <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
+  <img src="video/video2.mp4" alt="gesture recognition video2" width="711" height="400"><br>
+  <figcaption>크롬 (double click) > 다른 사이트 or 뉴스기사 클릭 (double click) > 뉴스 헤드라인 (drag) > 창 모두 닫기(window + d)</figcaption>
 </figure>
 </details>
 
